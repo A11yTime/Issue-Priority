@@ -1,4 +1,4 @@
-## Priority of Issues 
+## Priority of Issue 
 * Showstopepr: Copletely block user to use application - Focus trapped, Custom widget does work with keyboard, Missing accessible name of crucial element.
   Any application that fail to comply the following succcess criteria issues consider as showstopper.
    1. Success Criterion 1.4.2 Audio control (Level A): https://www.w3.org/WAI/WCAG21/Understanding/audio-control.html 
